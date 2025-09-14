@@ -1,5 +1,5 @@
 services:
-  consumerservices:
+  backgrondservices:
     environment:
       - DOTNET_ENVIRONMENT=Development
     volumes:

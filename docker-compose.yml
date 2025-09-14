@@ -1,6 +1,6 @@
 services:
-  consumerservices:
-    image: ${DOCKER_REGISTRY-}consumerservices
+  backgrondservices:
+    image: ${DOCKER_REGISTRY-}backgrondservices
     build:
       context: .
-      dockerfile: ConsumerServices/Dockerfile
+      dockerfile: src/BackgroundServices/Dockerfile
