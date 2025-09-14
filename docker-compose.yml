@@ -1,0 +1,6 @@
+services:
+  consumerservices:
+    image: ${DOCKER_REGISTRY-}consumerservices
+    build:
+      context: .
+      dockerfile: ConsumerServices/Dockerfile
