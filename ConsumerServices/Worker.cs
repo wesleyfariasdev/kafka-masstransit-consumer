@@ -1,4 +1,4 @@
-namespace ConsumerServices
+namespace BackgrondServices
 {
     public class Worker : BackgroundService
     {

@@ -11,7 +11,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Domain", "Domain\Domain.csp
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Infraestructure", "Infraestructure\Infraestructure.csproj", "{65D61E63-E86E-4E67-B414-C65C20D3DE07}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsumerServices", "ConsumerServices\ConsumerServices.csproj", "{F423F3F6-A460-457B-B64A-B81EB195D3DA}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BackgrondServices", "ConsumerServices\BackgrondServices.csproj", "{F423F3F6-A460-457B-B64A-B81EB195D3DA}"
 EndProject
 Project("{E53339B2-1760-4266-BCC7-CA923CBCF16C}") = "docker-compose", "docker-compose.dcproj", "{81DDED9D-158B-E303-5F62-77A2896D2A5A}"
 EndProject

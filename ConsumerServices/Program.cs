@@ -1,4 +1,4 @@
-using ConsumerServices;
+using BackgrondServices;
 
 var builder = Host.CreateApplicationBuilder(args);
 builder.Services.AddHostedService<Worker>();
