@@ -1,4 +1,4 @@
-﻿using Domain.Entites;
+﻿using Domain.Entities;
 using Domain.Enums;
 
 namespace UnitTest.Domain.Entities;
