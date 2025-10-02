@@ -2,7 +2,7 @@
 using MongoDB.Bson;
 using MongoDB.Bson.Serialization.Attributes;
 
-namespace Domain.Entites;
+namespace Domain.Entities;
 
 public sealed class Livro
 {
